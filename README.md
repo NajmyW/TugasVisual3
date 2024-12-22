@@ -1,1 +1,1 @@
-![gambar1](1)
+![gambar1](1.png)
